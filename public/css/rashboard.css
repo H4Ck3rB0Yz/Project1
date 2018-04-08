@@ -1,0 +1,21 @@
+body{
+	background-color: ;
+}
+.jim{
+	background-color: gray;
+	border: 10px solid rgb(255,255,0);
+	padding: 10px 20px 30px 40px;
+	margin:  10px 20px 30px 40px;
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Courier;
+	border-radius: 20px;
+	box-shadow: 10px 10px 20px black;
+}
+.wide-inner {
+	width: 100%;
+	display: block;
+	height: 200px;
+	background-color: red;
+}
